@@ -1,0 +1,20 @@
+env
+.idea
+*.pyc
+*.sqlite3
+comics_project/static/*
+comics_project/media/*
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+test_data
+# macOS
+.DS_Store
